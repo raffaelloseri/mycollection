@@ -45,7 +45,7 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image: {{< img src="eB20_41b.jpg" alt="Screenshot of the Onion homepage" >}}
+image:
   caption: ''
   focal_point: ""
   preview_only: false
@@ -64,6 +64,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
+
+{{< img src="eB20_41b.jpg" alt="Screenshot of the Onion homepage" >}}
 
 Text:<br />
 Signature: Ōju Ōsai Fusatane hitsu (應需櫻斎房種筆 [応需桜斎房種筆]) followed by red sign of the artist<br />
