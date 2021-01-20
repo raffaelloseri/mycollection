@@ -2,7 +2,8 @@
 title: "View of the noble tea ceremony (高貴茶の湯の景, Kōki Chanoyu no En)"
 authors:
 - Yōshū Chikanobu (楊洲周延)
-date: "2019-04-07T00:00:00Z"
+- Tsujioka Bunsuke (辻岡文助)
+date: "1881"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +31,7 @@ featured: false
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf:
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
