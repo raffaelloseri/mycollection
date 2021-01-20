@@ -1,5 +1,5 @@
 ---
-title: "July (Fumizuki)"
+title: "July (Fumizuki, 文月)"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
