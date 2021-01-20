@@ -52,13 +52,13 @@ image:
 
 gallery_item:  
   - album: 'branch-bundle-1'
-    image: 'GW150914Anniversary.png'
+    image: 'eB20_41a.jpg'
     caption: 'Write your image caption here'  # only shown when zoom out
   - album: gallery        # can not be replaced
-    image: 'sketch5.png'  # `static/media/sketch5.png`
+    image: 'eB20_41b.jpg'  # `static/media/sketch5.png`
     caption: A caption    # only shown when zoom out
   - album: gallery
-    image: https://vip1.loli.net/2020/11/11/OmVGhaz79iQJsvj.png
+    image: 'eB20_41c.jpg'
     caption: Another caption  # only shown when zoom out
 
 # Associated Projects (optional).
