@@ -45,10 +45,17 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: ''
-  focal_point: ""
-  preview_only: false
+
+
+  [[gallery_item]]
+  album = "1"
+  image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png"
+  caption = "Default"
+
+  [[gallery_item]]
+  album = "1"
+  image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png"
+  caption = "Dark"
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
