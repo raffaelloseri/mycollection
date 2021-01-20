@@ -50,16 +50,7 @@ image:
   focal_point: ""
   preview_only: false
 
-gallery_item:  
-  - album: '1'
-    image: 'eB20_41a.jpg'
-    caption: 'Write your image caption here'  # only shown when zoom out
-  - album: '2'        # can not be replaced
-    image: 'eB20_41b.jpg'  # `static/media/sketch5.png`
-    caption: A caption    # only shown when zoom out
-  - album: '3'
-    image: 'eB20_41c.jpg'
-    caption: Another caption  # only shown when zoom out
+{{< figure src="/eB20_41a.jpg" title="figure image with title" >}}
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
