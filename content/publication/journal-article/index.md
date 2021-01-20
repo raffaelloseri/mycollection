@@ -10,7 +10,7 @@ date: "1879"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "1879"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: ""
 publication_short: ""
 
 abstract:
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -65,8 +65,11 @@ projects: []
 slides:
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+Text:
+Signature: Ōju Ōsai Fusatane hitsu (應需櫻斎房種筆 [応需桜斎房種筆]) followed by red sign of the artist
+Publication date: 御届明治十二年八月 ... 日 (Ontodoke, date for notice of registration; Meiji 12 year, 1879; 8 month, August; ... day)
+Publisher (left): 版元 [publisher] 石川虎吉 [Ishikawa Torakichi] followed by address
+Publisher (right): 画工 [painter] 村井静馬 [Murai Seima, Fusatane's original name] followed by address
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Description:
+on the right chair, the Empress Dowager Eishō (英照皇太后, Eishō-kōtaigō), wife (妃) of the Emperor Kōmei (孝明天皇, Kōmei-tennō); in the central chair, Empress Dowager Akinori or Empress Shōken (昭憲皇太后, Shōken-kōtaigō), wife (妃) of the Emperor Meiji (明治天皇, Meiji-tennō) ??
