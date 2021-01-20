@@ -1,8 +1,7 @@
 ---
-title: "An example journal article"
+title: "Empress and Court Ladies Enjoying the Autumn Foliage (紅葉御遊覧之圖, Momiji goyūran no zu)"
 authors:
-- admin
-- Robert Ford
+- Utagawa Fusatane (歌川房種)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -44,7 +43,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
