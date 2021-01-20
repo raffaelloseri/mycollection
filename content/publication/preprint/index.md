@@ -1,7 +1,7 @@
 ---
-title: "July (Fumizuki, 文月)"
+title: "View of the noble tea ceremony (高貴茶の湯の景, Kōki Chanoyu no En)"
 authors:
-- admin
+- Yōshū Chikanobu (楊洲周延)
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
