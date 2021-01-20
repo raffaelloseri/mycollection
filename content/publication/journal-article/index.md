@@ -67,13 +67,9 @@ slides:
 
 Text:<br />
 Signature: Ōju Ōsai Fusatane hitsu (應需櫻斎房種筆 [応需桜斎房種筆]) followed by red sign of the artist<br />
-Publication date: 御届明治十二年八月 ... 日 (Ontodoke, date for notice of registration; Meiji 12 year, 1879; 8 month, August; ... day)
+Publication date: 御届明治十二年八月 ... 日 (Ontodoke, date for notice of registration; Meiji 12 year, 1879; 8 month, August; ... day)<br />
+Publisher (left): 版元 [publisher] 石川虎吉 [Ishikawa Torakichi] followed by address<br />
+Publisher (right): 画工 [painter] 村井静馬 [Murai Seima, Fusatane's original name] followed by address<br />
 
-Publisher (left): 版元 [publisher] 石川虎吉 [Ishikawa Torakichi] followed by address
-
-Publisher (right): 画工 [painter] 村井静馬 [Murai Seima, Fusatane's original name] followed by address
-
-
-Description:
-
+Description:<br />
 on the right chair, the Empress Dowager Eishō (英照皇太后, Eishō-kōtaigō), wife (妃) of the Emperor Kōmei (孝明天皇, Kōmei-tennō); in the central chair, Empress Dowager Akinori or Empress Shōken (昭憲皇太后, Shōken-kōtaigō), wife (妃) of the Emperor Meiji (明治天皇, Meiji-tennō) ??
