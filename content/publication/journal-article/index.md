@@ -50,8 +50,6 @@ image:
   focal_point: ""
   preview_only: false
 
-{{< figure src="/eB20_41a.jpg" title="figure image with title" >}}
-
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -75,3 +73,12 @@ Publisher (right): 画工 [painter] 村井静馬 [Murai Seima, Fusatane's origin
 
 <b>Description:</b><br />
 on the right chair, the Empress Dowager Eishō (英照皇太后, Eishō-kōtaigō), wife (妃) of the Emperor Kōmei (孝明天皇, Kōmei-tennō); in the central chair, Empress Dowager Akinori or Empress Shōken (昭憲皇太后, Shōken-kōtaigō), wife (妃) of the Emperor Meiji (明治天皇, Meiji-tennō) ??
+
+<b>Size of the original:</b><br />
+(L) 34.4 × 23.9 cm, (C) 34.3 × 24.0 cm, (R) 34.2 × 24.2 cm
+
+<b>Condition:</b><br />
+watermarks, lightly colour running, vertical crease and light tears on the right panel
+
+<b>Sources:</b><br />
+https://collections.mfa.org/objects/129813
