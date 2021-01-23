@@ -65,6 +65,8 @@ projects: []
 slides:
 ---
 
+<img src="eB20_41a.jpg" title="">
+
 <b>Text:</b><br />
 Signature: Ōju Ōsai Fusatane hitsu (應需櫻斎房種筆 [応需桜斎房種筆]) followed by red sign of the artist<br />
 Publication date: 御届明治十二年八月 ... 日 (Ontodoke, date for notice of registration; Meiji 12 year, 1879; 8 month, August; ... day)<br />
