@@ -1,5 +1,5 @@
 ---
-title: "Woman sericulture factory (女工場養蚕の圖 [女工場養蚕の圖図], On’na kōjō yōsan no zu)"
+title: "Woman sericulture factory (女工場養蚕の圖 [女工場養蚕の図], On’na kōjō yōsan no zu)"
 authors:
 - Utagawa Fusatane (歌川房種)
 - Morimoto Junzaburo (森本順三郎)
@@ -28,7 +28,8 @@ abstract:
 summary:
 
 tags:
-- Source Themes
+- nishiki-e
+- triptych
 featured: false
 
 # links:
@@ -83,5 +84,5 @@ Publisher (bottom): 出版人 (??, publisher) 森本順三郎 (Morimoto Junzabur
 pinhole, lightly colour running, vertical crease on the left panel, light tears, light stains due to colour oxidisation
 
 <b>Sources:</b><br />
-https://archives.tuat-museum.org/s/da/item/1342
+https://archives.tuat-museum.org/s/da/item/1342<br />
 https://cultural.jp/en/item/Nhikie-2018_u_0031
