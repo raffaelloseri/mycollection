@@ -1,16 +1,16 @@
 ---
-title: "Empress and Court Ladies Enjoying the Autumn Foliage (紅葉御遊覧之圖, Momiji goyūran no zu)"
+title: "Woman sericulture factory (女工場養蚕の圖 [女工場養蚕の圖図], On’na kōjō yōsan no zu)"
 authors:
 - Utagawa Fusatane (歌川房種)
-- Ishikawa Torakichi (石川虎吉)
+- Morimoto Junzaburo (森本順三郎)
 author_notes:
 - "Painter"
 - "Publisher"
-date: "1879-12-01"
+date: "1880-11-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "1879-12-01"
+publishDate: "1880-11-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,7 +28,7 @@ abstract:
 summary:
 
 tags:
-- nishiki-e
+- Source Themes
 featured: false
 
 # links:
@@ -65,22 +65,23 @@ projects: []
 slides:
 ---
 
-<img src="eB20_41a.jpg" title="">
+<img src="eB20_40a.jpg" title="">
 
 <b>Text:</b><br />
-Signature: Ōju Ōsai Fusatane hitsu (應需櫻斎房種筆 [応需桜斎房種筆]) followed by red sign of the artist<br />
-Publication date: 御届明治十二年八月 ... 日 (Ontodoke, date for notice of registration; Meiji 12 year, 1879; 8 month, August; ... day)<br />
-Publisher (left): 版元 [publisher] 石川虎吉 [Ishikawa Torakichi] followed by address<br />
-Publisher (right): 画工 [painter] 村井静馬 [Murai Seima, Fusatane's original name] followed by address<br />
+Signature: Ōju Ōsai Fusatane hitsu (應需桜斎房種筆 [応需桜斎房種筆])
+Publication date: 御届明治十三年十一月 ... 日 (Ontodoke, date for notice of registration; Meiji 13 year, 1880; 11 month, November; ... day)
+Publisher (top): 画工 (gakō, painter) 村井静馬 (Murai Seima, Fusatane’s original name) followed by address
+Publisher (bottom): 出版人 (??, publisher) 森本順三郎 (Morimoto Junzaburo) followed by address
 
 <b>Description:</b><br />
-on the right chair, the Empress Dowager Eishō (英照皇太后, Eishō-kōtaigō), wife (妃) of the Emperor Kōmei (孝明天皇, Kōmei-tennō); in the central chair, Empress Dowager Akinori or Empress Shōken (昭憲皇太后, Shōken-kōtaigō), wife (妃) of the Emperor Meiji (明治天皇, Meiji-tennō) ??
+...
 
 <b>Size of the original:</b><br />
-(L) 34.4 × 23.9 cm, (C) 34.3 × 24.0 cm, (R) 34.2 × 24.2 cm
+(L) 34.2 × 24.3, (C) 34.2 × 24.3, (R) 34.2 × 24.2 cm
 
 <b>Condition:</b><br />
-watermarks, lightly colour running, vertical crease and light tears on the right panel
+pinhole, lightly colour running, vertical crease on the left panel, light tears, light stains due to colour oxidisation
 
 <b>Sources:</b><br />
-https://collections.mfa.org/objects/129813
+https://archives.tuat-museum.org/s/da/item/1342
+https://cultural.jp/en/item/Nhikie-2018_u_0031

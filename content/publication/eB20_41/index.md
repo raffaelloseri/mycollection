@@ -29,6 +29,7 @@ summary:
 
 tags:
 - nishiki-e
+- triptych
 featured: false
 
 # links:
