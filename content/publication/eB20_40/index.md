@@ -69,9 +69,9 @@ slides:
 <img src="eB20_40a.jpg" title="">
 
 <b>Text:</b><br />
-Signature: Ōju Ōsai Fusatane hitsu (應需桜斎房種筆 [応需桜斎房種筆])
-Publication date: 御届明治十三年十一月 ... 日 (Ontodoke, date for notice of registration; Meiji 13 year, 1880; 11 month, November; ... day)
-Publisher (top): 画工 (gakō, painter) 村井静馬 (Murai Seima, Fusatane’s original name) followed by address
+Signature: Ōju Ōsai Fusatane hitsu (應需桜斎房種筆 [応需桜斎房種筆])<br />
+Publication date: 御届明治十三年十一月 ... 日 (Ontodoke, date for notice of registration; Meiji 13 year, 1880; 11 month, November; ... day)<br />
+Publisher (top): 画工 (gakō, painter) 村井静馬 (Murai Seima, Fusatane’s original name) followed by address<br />
 Publisher (bottom): 出版人 (??, publisher) 森本順三郎 (Morimoto Junzaburo) followed by address
 
 <b>Description:</b><br />
