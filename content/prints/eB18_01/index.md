@@ -79,5 +79,5 @@ slides:
 ??
 
 <b>Sources:</b><br />
-https://collections.lacma.org/node/201370
+https://collections.lacma.org/node/201370<br />
 https://www.yamada-shoten.com/onlinestore_pre/detail.php?item_id=56725
