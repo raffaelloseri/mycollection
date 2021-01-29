@@ -1,7 +1,7 @@
 ---
 title: "The Arts of Koto, Go, Writing and Painting (琴棋書画園 [琴棋書画図])"
 authors:
-- Toshikata Mizuno (水野敏方)
+- Mizuno Toshikata (水野年方)
 - Matsuki Heikichi (松木平吉)
 author_notes:
 - "Painter"
