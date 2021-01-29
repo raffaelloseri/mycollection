@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yōshū Chikanobu (楊洲周延)
+title: Mizuno Toshikata (水野年方)
 
 # Username (this should match the folder name)
 authors:
-- Yōshū Chikanobu (楊洲周延)
+- Mizuno Toshikata (水野年方)
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,6 +14,6 @@ user_groups:
 - Artists
 ---
 
-Yōshū Chikanobu (1838-1912) [ARTIST]. Edo/Tokyo print designer and painter. Also Hashimoto  Chikanobu. Born into a samurai family in Echigo Province; he studied Kanō painting before going to Edo, where he studied with Utagawa Kuniyoshi, Utagawa Kunisada and Toyohara Kunichika, producing prints by the 1860s. He established himself as an artist of manners and customs in the 1880s with triptychs of the Meiji Emperor and Empress, and members of the court dressed in typically Victorian attire (see <em>kaika-e</em>). He is recognized for these works and <em>bijinga</em> prints in an increasingly sublime palette such as the 1897 series <em>True Beauties</em> (<em>Shin bijin</em>) and <em>Mirror of Ages</em> (<em>Jidai kagami</em>). A versatile artist, he also designed war triptychs of the Sino-Japanese War (1894-95) and some <em>yakusha-e</em>; he also exhibited work in the Domestic Competitive Painting Exhibition (<em>Naikoku Kaiga Kyōshinkai</em>) of 1882. Other <em>gagō</em>: Ikkakusai, Yoshitsuru II. (Newland, 2005, v. 2, p. 497)
+Mizuno Toshikata (1866-1908) [ARTIST]. Tokyo print designer, illustrator and painter. As a boy, studied with Tsukioka Yoshitoshi, but was withdrawn, then studied Western-style drawing and pottery painting with Yamada Ryūtō. He eventually returned to Yoshitoshi's studio, and trained in the preparation of <em>hanshita-e</em>. Upon Yoshitoshi's recommendation, he became a staff illustrator for the newspaper <em>Yamato shinbun</em>. He also studied literati (Nanga) painting with Shibata Hōshū, <em>kachōga</em> with Watanabe Seitei and <em>hanshita-e</em> with Mishima Shōsō (1856-1928); he was also designated by Yoshitoshi as his successor, thereby becoming a standard-bearer for late 19-th c. nishiki-e. He made numerous triptychs of the sino-japanese war (1894-95), frontispieces (see <em>kuchi-e</em>) for contemporary novels, and several sets and series of prints including two sets on fashions for Mitsui Department Store (in 1898, and in 1905-6 after the name was changed to Mitsukoshi). As a leading <em>ukiyo-e</em> painter of customs and manners and a serious history painter, he did much to equalize the status of the Ukiyo-e school with the Tosa and Shijō schools [...] Other <em>gagō</em>: Shōsetsu. (Newland, 2005, v. 2, p. 496)
 
 Newland, Amy Reigle, ed. 2005. The Hotei Encyclopedia of Japanese Woodblock Prints. 2 vols. Amsterdam: Hotei Publishing.
