@@ -68,6 +68,10 @@ slides:
 
 <img src="eB20_40a.jpg" title="">
 
+<b>Painter:</b> Utagawa Fusatane (歌川房種)<br />
+<b>Publisher:</b> Morimoto Junzaburo (森本順三郎)
+
+
 <b>Text:</b><br />
 Signature: Ōju Ōsai Fusatane hitsu (應需桜斎房種筆 [応需桜斎房種筆])<br />
 Publication date: 御届明治十三年十一月 ... 日 (Ontodoke, date for notice of registration; Meiji 13 year, 1880; 11 month, November; ... day)<br />
