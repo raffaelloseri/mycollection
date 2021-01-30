@@ -71,6 +71,14 @@ slides:
 <b>Painter:</b> Utagawa Fusatane (歌川房種)<br />
 <b>Publisher:</b> Morimoto Junzaburo (森本順三郎)
 
+<b>Description:</b><br />
+...
+
+<b>Size:</b><br />
+(L) 34.2 × 24.3, (C) 34.2 × 24.3, (R) 34.2 × 24.2 cm
+
+<b>Condition:</b><br />
+pinhole, lightly colour running, vertical crease on the left panel, light tears, light stains due to colour oxidisation
 
 <b>Text:</b><br />
 Signature: Ōju Ōsai Fusatane hitsu (應需桜斎房種筆 [応需桜斎房種筆])<br />
@@ -78,14 +86,6 @@ Publication date: 御届明治十三年十一月 ... 日 (Ontodoke, date for not
 Publisher (top): 画工 (gakō, painter) 村井静馬 (Murai Seima, Fusatane’s original name) followed by address<br />
 Publisher (bottom): 出版人 (??, publisher) 森本順三郎 (Morimoto Junzaburo) followed by address
 
-<b>Description:</b><br />
-...
-
-<b>Size of the original:</b><br />
-(L) 34.2 × 24.3, (C) 34.2 × 24.3, (R) 34.2 × 24.2 cm
-
-<b>Condition:</b><br />
-pinhole, lightly colour running, vertical crease on the left panel, light tears, light stains due to colour oxidisation
 
 <b>Sources:</b><br />
 https://archives.tuat-museum.org/s/da/item/1342<br />
